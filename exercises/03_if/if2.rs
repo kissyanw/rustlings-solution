@@ -7,7 +7,6 @@ fn picky_eater(food: &str) -> &str {
     } else {
         "No thanks!"
     }
-
 }
 
 fn main() {
